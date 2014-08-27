@@ -1,4 +1,4 @@
 Calabash-Android
 ================
 
-A guide to Calabash Testing
+A evolving guide to Calabash Testing 
