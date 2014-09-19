@@ -1,6 +1,6 @@
 Feature: Text Entry 
 
-  Scenario: As a valid  I can login 
+  Scenario: As a valid  I can Log in and create a file   
         
     Then I enter text "jaideep@test1.com" into field with id "textUsername"
     Then I enter text "88888888" into field with id "textPasswd"
@@ -17,10 +17,7 @@ Feature: Text Entry
     Then I press the "1" button
     Then I press the "1" button
     Then I wait for a second
-    Then I swipe right
-    Then I wait for a second
-    Then I swipe right
-    Then I wait for a second 
-    Then I press view with id "btnSearch"
-    Then I enter text "abc" into field with id "editInputSearch"
-    Then I wait for 30 seconds
+    Then I press view with id "btnCreate"    
+    Then I touch the "Document" text
+    Then I enter "helllo" into input field number 1
+     

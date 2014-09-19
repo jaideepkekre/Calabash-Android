@@ -1,0 +1,33 @@
+---------------------CURRENT------------------------
+#JAI 5 sep  : Run Query to get device resolution in a function and store it's value ie : resAutoDetect()
+            : Fork and Maintain calabash-android-kekre( https://github.com/jaideepkekre/calabash-android-kekre ) 
+#SID 5 sep  : Upload AppThwack report
+            : File Bugs  
+
+--------------------PENDING-------------------------
+#ALL        : Get a custom ipa from iOS dev to enable calabash testing  
+
+
+--------------------PRIORITY------------------------
+#ALL        : Create device independent Picsel automation
+
+ 
+--------------------DONE----------------------------
+*JAI 5 sep  : Forked calabash-android ( https://github.com/jaideepkekre/calabash-android-kekre )
+*JAI 4 sep  : Get Picsel working on Note 10.1 
+*JAI 4 sep  : Flick action added 
+*JAI 4 sep  : Moto g == Note 2 , resolution eqivalence established
+*SID 4 sep  : gingerbread working
+*SID 4 sep  : Query device resolution.
+*SID 4 sep  : Download and view files
+*ALL        : Request MAC mini 32 bit for xcode
+
+
+------------------TEST TEAM INPUTS-----------------
+
+
+
+
+------------------YUSUF INPUTS---------------------
+
+

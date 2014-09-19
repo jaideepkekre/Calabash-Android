@@ -1,0 +1,17 @@
+For windows adb shell dumpsys window | Find "init"
+For linux   adb shell dumpsys window | grep init
+
+********************************************
+                   REGEX
+********************************************
+--------------------------------------------
+To get device resolution data via adb shell
+-------------------------------------------
+k=`adb shell dumpsys window | grep init`
+k=k[/cur=\S*/]
+k=k[/[^cur=]+/]
+____________________________________________
+
+
+
+
