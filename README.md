@@ -1,4 +1,5 @@
 # README #
+(For testing guide and tips , see wiki)
 
 This is a place for all hosting Mobile App automation code at V 
 
